@@ -15,7 +15,7 @@ Hospital staff can log in securely using the authentication system implemented o
 
 ## Live Demo
 
-Visit the live site here: [Seikatsu Compass](https://radiant-lamington-a3381c.netlify.app/)
+Visit the live site here: [Seikatsu Compass](https://seikatsu-compass.netlify.app)
 
 ## Tech Stack
 
