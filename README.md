@@ -11,7 +11,7 @@ Seikatsu Compass is a user-friendly web platform designed to simplify the proces
 
 ## Live Demo
 
-Visit the live site here: [Seikatsu Compass](https://silly-sundae-e75e4c.netlify.app/)
+Visit the live site here: [Seikatsu Compass](https://radiant-lamington-a3381c.netlify.app/)
 
 ## Tech Stack
 
