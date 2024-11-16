@@ -1,4 +1,4 @@
-# Seikatsu Compass
+# Seikatsu Compass (Life Guide)
 
 Seikatsu Compass is a user-friendly web platform designed to simplify the process of selecting the right hospital for healthcare needs. It provides detailed information about healthcare facilities, empowering users to make informed decisions.
 
